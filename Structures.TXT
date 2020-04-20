@@ -1,0 +1,7 @@
+hanoi          	11        	su39
+london         	22        	boing747
+minsk          	33        	mix21
+moscow         	44        	su30
+paris          	55        	boing747
+tokyo          	66        	mix24
+volgograd      	77        	su30
